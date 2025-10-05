@@ -1,0 +1,187 @@
+[
+  {
+    "region": "Kanto",
+    "gyms": [
+      {
+        "name": "Brock",
+        "badge": "Boulder Badge",
+        "type": "Rock",
+        "location": "Pewter City",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/RB_Brock.png",
+        "team": [
+          {
+            "name": "Geodude",
+            "level": 12
+          },
+          {
+            "name": "Onix",
+            "level": 14
+          }
+        ]
+      },
+      {
+        "name": "Misty",
+        "badge": "Cascade Badge",
+        "type": "Water",
+        "location": "Cerulean City",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/125px-Red_Blue_Misty.png",
+        "team": [
+          {
+            "name": "Staryu",
+            "level": 18
+          },
+          {
+            "name": "Starmie",
+            "level": 21
+          }
+        ]
+      },
+      {
+        "name": "Lt. Surge",
+        "badge": "Thunder Badge",
+        "type": "Electric",
+        "location": "Vermilion City",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/194px-Red_Blue_Lt_Surge.png",
+        "team": [
+          {
+            "name": "Voltorb",
+            "level": 21
+          },
+          {
+            "name": "Pikachu",
+            "level": 18
+          },
+          {
+            "name": "Raichu",
+            "level": 24
+          }
+        ]
+      },
+      {
+        "name": "Erika",
+        "badge": "Rainbow Badge",
+        "type": "Grass",
+        "location": "Celadon City",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/283px-Red_Blue_Erika.png",
+        "team": [
+          {
+            "name": "Victreebel",
+            "level": 29
+          },
+          {
+            "name": "Tangela",
+            "level": 24
+          },
+          {
+            "name": "Vileplume",
+            "level": 29
+          }
+        ]
+      },
+      {
+        "name": "Koga",
+        "badge": "Soul Badge",
+        "type": "Poison",
+        "location": "Fuchsia City",
+        "location - Copy 1": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/230px-Red_Blue_Koga.png",
+        "team": [
+          {
+            "name": "Koffing",
+            "level": 37
+          },
+          {
+            "name": "Koffing",
+            "level": 37
+          },
+          {
+            "name": "Muk",
+            "level": 39
+          },
+          {
+            "name": "Weezing",
+            "level": 43
+          }
+        ]
+      },
+      {
+        "name": "Sabrina",
+        "badge": "Marsh Badge",
+        "type": "Psychic",
+        "location": "Saffron City",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/Red_Blue_Sabrina.png",
+        "team": [
+          {
+            "name": "Kadabra",
+            "level": 38
+          },
+          {
+            "name": "Mr. Mime",
+            "level": 37
+          },
+          {
+            "name": "Venomoth",
+            "level": 38
+          },
+          {
+            "name": "Alakazam",
+            "level": 43
+          }
+        ]
+      },
+      {
+        "name": "Blaine",
+        "badge": "Volcano Badge",
+        "type": "Fire",
+        "location": "Cinnabar Island",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/219px-Red_Blue_Blaine.png",
+        "team": [
+          {
+            "name": "Growlithe",
+            "level": 42
+          },
+          {
+            "name": "Ponyta",
+            "level": 40
+          },
+          {
+            "name": "Rapidash",
+            "level": 42
+          },
+          {
+            "name": "Arcanine",
+            "level": 47
+          }
+        ]
+      },
+      {
+        "name": "Giovanni",
+        "badge": "Earth Badge",
+        "type": "Ground",
+        "location": "Viridian City",
+        "artwork": "https://raw.githubusercontent.com/ferichan/pokegame/main/red-blue/170px-Red_Blue_Giovanni.png",
+        "team": [
+          {
+            "name": "Rhyhorn",
+            "level": 45
+          },
+          {
+            "name": "Dugtrio",
+            "level": 42
+          },
+          {
+            "name": "Nidoqueen",
+            "level": 44
+          },
+          {
+            "name": "Nidoking",
+            "level": 45
+          },
+          {
+            "name": "Rhydon",
+            "level": 50
+          }
+        ]
+      }
+    ]
+  }
+]
